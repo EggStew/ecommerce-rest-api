@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce-rest-api",
+  "version": "1.0.0",
+  "description": "e-commerce application REST API using servier-side web development. Fully-functioning e-commerce application that allows users to perform various CRUD operations auch as registering an account, browsing products for sale, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "EC Stewart",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
